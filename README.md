@@ -4,4 +4,4 @@ lang: all
 ---
 
 ## get started
-...to..be..
+node js, express with ethereum
